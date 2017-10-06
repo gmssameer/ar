@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 28d4ab4610fe4186974edbf6885b86f8
+guid: 3b61033f5669469694a56fa86a79cde3
 TextureImporter:
   fileIDToRecycleName:
     8900000: generatedCubemap
@@ -46,7 +46,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
