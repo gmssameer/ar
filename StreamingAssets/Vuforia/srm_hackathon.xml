@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="girls" size="3.000000 2.250000" />
+    <ImageTarget name="etios" size="3.000000 1.732863" />
+    <ImageTarget name="cricket" size="3.000000 2.250000" />
+    <ImageTarget name="fifa" size="3.000000 2.250000" />
+    <ImageTarget name="specs" size="3.000000 4.000000" />
+    <ImageTarget name="glamour" size="3.000000 4.000000" />
+    <ImageTarget name="page4" size="3.000000 4.000000" />
+    <ImageTarget name="page2" size="3.000000 4.341818" />
+    <ImageTarget name="page3" size="3.000000 4.000000" />
+    <ImageTarget name="page1" size="3.000000 4.060241" />
     <ImageTarget name="pears" size="3.000000 3.936451" />
     <ImageTarget name="news" size="3.000000 4.390244" />
     <ImageTarget name="black" size="2.000000 1.500000" />
