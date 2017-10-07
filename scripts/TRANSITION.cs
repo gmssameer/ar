@@ -23,6 +23,9 @@ public class TRANSITION : MonoBehaviour {
 
 
 	}
+	public void Game(){
+		SceneManager.LoadScene ("game");
+	}
 	public void NewsPaper()
 	{
 		SceneManager.LoadScene ("newspaper");
